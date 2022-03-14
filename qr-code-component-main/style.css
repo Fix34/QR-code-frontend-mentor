@@ -1,0 +1,48 @@
+* {
+    font-size: 15px;
+}
+img{
+    width: 350px;
+    border-radius: 15px;
+}
+body{
+    background: hsl(212, 45%, 89%);
+}
+.containertwo{
+    border-radius: 15px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 175px;
+    margin-bottom: 175px;
+    text-align: center;
+    background: white;
+    width: 350px;
+}
+
+.improve {
+    
+    margin: 20px;
+    font-family: "Outfit";
+    font-weight: 700;
+    color:hsl(218, 44%, 22%) ;
+    
+}
+
+.scan {
+    
+    font-family: "Outfit";
+    font-weight: 400;
+    color:hsl(220, 15%, 55%) ;
+    margin: 25px;
+}
+.attribution {
+    text-align: center;
+    font-size: 11px;
+    font-family: "Outfit";
+    font-weight: 400;
+    color:hsl(220, 15%, 55%) ;
+    
+}
+
+
+    
